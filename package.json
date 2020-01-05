@@ -1,0 +1,20 @@
+{
+  "name": "alexa-skill-theoffice",
+  "version": "1.0.0",
+  "description": "Generate lines from the Office.",
+  "main": "index.js",
+  "scripts": {
+    "proxy": "bst proxy lambda index.js",
+    "getFact": "bst intend GetNewFactIntent",
+    "deploy": "bst deploy lambda"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "bespoken-tools": "^2.4.30",
+    "dotenv": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/melisgokalp/alexa-skill-theoffice.git"
+  }
+}
