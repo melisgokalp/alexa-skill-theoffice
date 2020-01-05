@@ -19,7 +19,22 @@ var languageStrings = {
                 "Everything I have I owe to this job…this stupid, wonderful, boring, amazing job.",
                 "I am a black belt in gift wrapping.",
                 "So this is my life. Until I win the lottery. Or Pam finally writes that series of young adult books.",
-                "Fact: Bears eat beets. Bears. Beets. Battlestar Galactica."
+                "Fact: Bears eat beets. Bears. Beets. Battlestar Galactica.",
+                "I miss Dwight. Congratulations, universe. You win.",
+                "Wow you've really embraced the whole Bond villain aesthetic."
+            ],
+            "DWFACTS": [
+                "I am fast. To give you a reference point I am somewhere between a snake and a mongoose… And a panther.",
+                "Through concentration, I can raise and lower my cholesterol at will.",
+                "Yes, I have a wig for every single person in the office. You never know when you're gonna need to bear a passing resemblance to someone.",
+                "I am better than you have ever been or ever will be. ",
+                "Always the Padawan, never the Jedi.",
+                "Growing up I performed my own circumcision.",
+                "Bread is the paper of the food industry. You write your sandwich on it.",
+                "Those who can’t farm, farm celery.",
+                "‘R’ is the most menacing sound in the English language. That’s why it’s called ‘murder’ and not ‘mukduk.’ ",
+                "Identity theft is not a joke, Jim! Millions of families suffer every year.",
+                "There are three things you must never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season."
             ],
             "SKILL_NAME" : "the office generator",
             "GET_FACT_MESSAGE" : "Here's your line: ",
