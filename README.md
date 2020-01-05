@@ -7,4 +7,7 @@ alexa-sdk, bespoken-tools, dotenv
 "bespoken-tools": "^2.1.2",
 "dotenv": "^6.2.0"
 
+2. Run `npm install`
+3. Run `npm run proxy` to start the server
+
 
