@@ -36,7 +36,7 @@ var languageStrings = {
                 "Identity theft is not a joke, Jim! Millions of families suffer every year.",
                 "There are three things you must never turn your back on: bears, men you have wronged, and a dominant male turkey during mating season."
             ],
-            "SKILL_NAME" : "the office generator",
+            "SKILL_NAME" : "the office line generator",
             "GET_FACT_MESSAGE" : "Here's your line: ",
             "HELP_MESSAGE" : "You can say tell me a michael scott line, or, you can say exit... What can I help you with?",
             "HELP_REPROMPT" : "What can I help you with?",

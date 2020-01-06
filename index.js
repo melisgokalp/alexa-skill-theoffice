@@ -2,7 +2,7 @@
 
 require('dotenv').config();
 var Alexa = require('alexa-sdk');
-var languageStrings = require('./languageStrings.js');
+var languageStrings = require('./lines.js');
 
 exports.handler = function(event, context, callback) {
     var alexa = Alexa.handler(event, context); 
