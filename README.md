@@ -1,6 +1,9 @@
 # Alexa Skill: The Office line generator 
 This Amazon Alexa Skill lets you generate lines from your favorite the Office characters.
 
+![Alexa demo](demo/demo.gif)
+
+## How to Run
 1. Install Dependencies to self-host the skill.
 alexa-sdk, bespoken-tools, dotenv
 "alexa-sdk": "^1.0.25",
